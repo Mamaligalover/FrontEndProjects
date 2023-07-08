@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/FrontEndProjects/static/css/main.a36bac58.css",
-    "main.js": "/FrontEndProjects/static/js/main.aa142c52.js",
+    "main.css": "/FrontEndProjects/static/css/main.ab7b01fa.css",
+    "main.js": "/FrontEndProjects/static/js/main.53128a06.js",
     "static/js/787.354e2004.chunk.js": "/FrontEndProjects/static/js/787.354e2004.chunk.js",
     "static/media/illustration-sign-up-mobile.svg": "/FrontEndProjects/static/media/illustration-sign-up-mobile.3f6f1c6d3e48045cb31a.svg",
     "static/media/illustration-sign-up-desktop.svg": "/FrontEndProjects/static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862.svg",
     "index.html": "/FrontEndProjects/index.html",
     "static/media/icon-success.svg": "/FrontEndProjects/static/media/icon-success.1ad016255f85fa877dc6.svg",
     "static/media/icon-list.svg": "/FrontEndProjects/static/media/icon-list.5e317c030bb9f11a3343.svg",
-    "main.a36bac58.css.map": "/FrontEndProjects/static/css/main.a36bac58.css.map",
-    "main.aa142c52.js.map": "/FrontEndProjects/static/js/main.aa142c52.js.map",
+    "main.ab7b01fa.css.map": "/FrontEndProjects/static/css/main.ab7b01fa.css.map",
+    "main.53128a06.js.map": "/FrontEndProjects/static/js/main.53128a06.js.map",
     "787.354e2004.chunk.js.map": "/FrontEndProjects/static/js/787.354e2004.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a36bac58.css",
-    "static/js/main.aa142c52.js"
+    "static/css/main.ab7b01fa.css",
+    "static/js/main.53128a06.js"
   ]
 }
