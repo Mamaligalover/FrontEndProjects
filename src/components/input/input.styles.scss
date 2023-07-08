@@ -1,0 +1,22 @@
+.lable-div{
+  display: flex;
+  justify-content: space-between;
+}
+.error-message{
+  color: red;
+  font-size: 12px;
+  padding-left: 10px;
+}
+.input{
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border : 1px solid;
+}
+.input-error{
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border:2px solid red;
+  background-color: #daacac;
+}
