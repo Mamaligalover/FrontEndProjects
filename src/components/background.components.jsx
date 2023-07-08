@@ -40,23 +40,26 @@ const BackgroundComponents= ()=>{
                         <ButtonComponent onClik={Dismis} title='Dismiss message'/>
                     </div>
                 </div> :
-            <div className='card'>
-                <div className='content'>
-                        <h1 className='title'>Stay updated!</h1>
-                        <p className='subtitle'>Join 60,000+ product managers receving monthly opdates on:</p>
-                        <ul className='list'>
-                            <li> Product doscpvery and building what matters</li>
-                            <li> Measuring to ensure updates are a success</li>
-                            <li> And much more!</li>
-                        </ul>
+                <form >
+                    <span className='card'>
+                        <div className='content'>
+                            <h1 className='title'>Stay updated!</h1>
+                            <p className='subtitle'>Join 60,000+ product managers receving monthly opdates on:</p>
+                            <ul className='list'>
+                                <li> <span className='list-text'>Product doscpvery and building what matters</span> </li>
+                                <li><span className='list-text'> Measuring to ensure updates are a success</span></li>
+                                <li><span className='list-text'> And much more!</span></li>
+                            </ul>
 
-                    <InputComponent inputResult={handelValueFromChild}/>
-                    <ButtonComponent onClik={OnCLik} title='Subscribe to monthly newsletter'/>
+                            <InputComponent inputResult={handelValueFromChild}/>
+                            <ButtonComponent onClik={OnCLik} title='Subscribe to monthly newsletter'/>
 
-                </div>
-                <div className='image'>
-                </div>
-            </div>
+                        </div>
+                        <div className='image'>
+                        </div>
+                    </span>
+                </form>
+
             }
 
         </div>

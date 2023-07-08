@@ -26,13 +26,13 @@ const InputComponent = ({inputResult})=>{
 
     return(
         <>
-            <form autoComplete='off'>
+
                 <div className='lable-div'>
                     <label htmlFor='inputId' className='lable'> Email address</label>
                     {error && <div className='error-message'>{error}</div>}
                 </div>
                 <input className={inputclass} id='inputId' type='email' placeholder='example@mail.com' onChange={handleinput} />
-            </form>
+
         </>
 
     )
